@@ -1,0 +1,45 @@
+Ω⁴-UNIFIED — MANIFEST
+Источник: C:\Users\User\Desktop\LaTeX\LaTex4\итог14\эталон\334\публикация\калиби\статья\сборка\решения
+Скопировано: 41 / 41
+
+  ✅ core.py
+  ✅ atlas.py
+  ✅ physics.py
+  ✅ main.py
+  ✅ vacuum_analysis.py
+  ✅ atlas_scan.py
+  ✅ magic_numbers.py
+  ✅ quark_structure.py
+  ✅ modular_forms.py
+  ✅ statistical.py
+  ✅ cross_validation.py
+  ✅ predictions.py
+  ✅ sensitivity.py
+  ✅ benchmark.py
+  ✅ elliptic_curve.py
+  ✅ topological_origin.py
+  ✅ extra_constants.py
+  ✅ system_metrics.py
+  ✅ quantum_gravity.py
+  ✅ compactification.py
+  ✅ main_research.py
+  ✅ research_topology.py
+  ✅ research_membrane.py
+  ✅ research_bulk.py
+  ✅ research_m_theory.py
+  ✅ research_omega4.py
+  ✅ research_omega58.py
+  ✅ research_hierarchy.py
+  ✅ research_predictions.py
+  ✅ research_final.py
+  ✅ check_frg_limit.py
+  ✅ omega4_frg_rge_unified.py
+  ✅ darboux_susy.py
+  ✅ susy_omega4.py
+  ✅ spread_uniqueness.py
+  ✅ membrane_core.py
+  ✅ membrane_wave_function.py
+  ✅ membrane_vacuum_link.py
+  ✅ genome_writer.py
+  ✅ msusy_derivation.py
+  ✅ main_unified.py
